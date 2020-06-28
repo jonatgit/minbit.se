@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Jon
+## Welcome to GitHub Pages NBIT
 
 You can use the [editor on GitHub](https://github.com/jonatgit/minbit.se/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
