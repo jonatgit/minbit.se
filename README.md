@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages NBIT
+## Welcome to GitHub Pages NBIT trigger
 
 You can use the [editor on GitHub](https://github.com/jonatgit/minbit.se/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
